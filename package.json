@@ -123,7 +123,7 @@
     "validator": "^7.0.0",
     "webpack": "^2.2.0",
     "webpack-dev-middleware": "^1.9.0",
-    "webpack-hot-middleware": "^2.15.0",
+    "webpack-hot-middleware": "^2.25.1",
     "webpack-isomorphic-tools": "^3.0.0",
     "yargs": "^7.0.1"
   }
